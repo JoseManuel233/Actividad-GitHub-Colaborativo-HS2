@@ -1,0 +1,9 @@
+Repositorio: Practica_GitHub_JoseManuel
+Descripción: Repositorio para la práctica de control de versiones en GitHub
+Control de versiones: Git
+----------------------------------------
+- Git: Sistema de control de versiones distribuido creado por Linus Torvalds en 2005.
+
+- SVN (Subversion): Es un sistema de control de versiones centralizado.
+
+- Mercurial: Otro sistema distribuido, rápido y ligero, lanzado en 2005.
